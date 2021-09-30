@@ -3,7 +3,7 @@
 # ![logo](https://github.com/rikvdkleij/intellij-haskell/blob/master/logo/icon_intellij_haskell_32.png) Evalexpr
 > Project made on october 2020
 
-![rating](https://img.shields.io/badge/notation-★★★★★-brightgreen) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eEydou.EvalExpr&left_color=purple&right_color=white)
+![rating](https://img.shields.io/badge/notation-★★★★★-brightgreen) ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=eydou.evalexpr&left_color=purple&right_color=grey)
 
 <h2> An essential calculator in haskell </h2>
 
