@@ -84,10 +84,9 @@ works with () - parenthesis
 <p align="justify"> 
 Compile the makefile and add some arithmetic expression like this !
 </p>
-<pre>
-$> ./funEvalExpr 6 * 12 / 2 * (1 - 2 - (2 - 4 - 5) - 10) ^ 2 * (2 - 7 - 4) ^ 3 
-$> -419904.00
-</pre>
+
+<img src="https://github.com/Eydou/FUN_evalexpr/blob/master/term.png" width="1000" 
+     height="100" />
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -95,12 +94,12 @@ $> -419904.00
 
 <p align="justify"> 
  <pre>
- $> make && test_run
+ > make && test_run
  </pre>
 Or Put the executable in the `unitTest` folder and run like this :
 </p>
  <pre>
- $> bats unit_test.bats
+ > bats unit_test.bats
  </pre>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
