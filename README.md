@@ -82,11 +82,12 @@ works with () - parenthesis
 <h2 id="Run"> :computer: How to run the program ?</h2>
 
 <p align="justify"> 
-Compile the makefile and add some arithmetic expression like this !
+Compile the makefile (make) and add some arithmetic expression like this !
 </p>
-
-<img src="https://github.com/Eydou/FUN_evalexpr/blob/master/term.png" width="1000" 
-     height="100" />
+<pre>
+ $> ./funEvalExpr "6 * 12 / 2 * (1 - 2 - (2 - 4 - 5) - 10) ^ 2 * (2 - 7 - 4) ^ 3"
+ $> -419904.00
+</pre>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
